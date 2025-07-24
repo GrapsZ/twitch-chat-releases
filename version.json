@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "downloadUrl": "https://github.com/GrapsZ/twitch-chat-releases/releases/download/v1.0.1/setup.exe",
-  "releaseNotes": "Version initiale\n- Chat Twitch en temps réel\n- Traduction automatique\n- Interface authentique",
+  "releaseNotes": "Mode debug désactivé\n- Optimisation des appels API",
   "releaseDate": "2025-07-24"
 }
